@@ -23,4 +23,4 @@ Database Setup and Importing
 
 Demo
 ---------------
-Using [heroku](chunky123-listings.herokuapp.com/listings)
+Using [heroku](http://chunky123-listings.herokuapp.com/listings)
