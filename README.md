@@ -9,6 +9,10 @@ At a minimum:
 - Your API should correctly filter any combination of API parameters
 - Use a datastore
 
+Routes
+--------------
+The route code for the controller is mainly in ```app/controllers/listings_controller.rb```
+
 Database Setup and Importing
 ---------------
 1. I downloaded the csv data to ```db/import_data/listing-details.csv```
@@ -23,7 +27,7 @@ Database Setup and Importing
 
 Demo
 ---------------
-Using [heroku](http://chunky123-listings.herokuapp.com/listings)i
+Using [heroku](http://chunky123-listings.herokuapp.com/listings)
 
 Possible Improvements
 -----------------
